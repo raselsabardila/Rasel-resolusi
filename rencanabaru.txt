@@ -1,1 +1,2 @@
--belajar oktlin
+-belajar kotlin
+-belajar java
