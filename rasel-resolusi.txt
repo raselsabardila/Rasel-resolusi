@@ -1,2 +1,3 @@
 Rasel sabardila resolusi:
 -konsisten untuk menjadi web development
+-membuat web sendiri
