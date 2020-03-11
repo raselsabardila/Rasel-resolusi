@@ -1,4 +1,4 @@
 -belajar kotlin
 -belajar java
--belajar django
--belajar python 
+-belajar visual basic
+-belajr python
